@@ -3,6 +3,7 @@ body{
 	font-family: Arial;
 }
 
+/*This is the design section for the navbar*/
 .topnav {
 	overflow: hidden;
 	background-color: #333333;
@@ -100,3 +101,5 @@ body{
 		text-align: left;
 	}
 }
+
+/*This section is for the image gallery*/
